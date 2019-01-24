@@ -7,4 +7,13 @@
    <FileRef
       location = "group:../Cleanse.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:CleanseGithubBrowser/CleanseGithubBrowser.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CleanseTry1/CleanseTry1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CleanseTry2/CleanseTry2.xcodeproj">
+   </FileRef>
 </Workspace>
